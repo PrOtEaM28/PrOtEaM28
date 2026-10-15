@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm PrOtEaM👋
 
-<!--
-**PrOtEaM28/PrOtEaM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agricultural & Biosystems Engineering | Python | AI/ML | UI/UX Design
 
-Here are some ideas to get you started:
+I'm an Agricultural and Biosystems Engineering student exploring how technology can solve real-world problems, especially in agriculture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Interests
+
+- Agricultural Technology (AgriTech)
+- Python programming and data analysis
+- Artificial Intelligence and Machine Learning
+- UI/UX design
+
+Currently Learning
+
+- Python programming
+- Machine learning fundamentals
+- Git and GitHub
+- Designing useful digital products
+
+My Mission
+
+To build technology-driven solutions that help farmers make better, data-informed decisions.
+
+My Current Goal
+
+Strengthen my programming foundations, build practical projects, and grow into a developer who creates useful solutions for real-world problems.
+
+---
+
+This is the beginning of my learning journey. More projects coming soon!
